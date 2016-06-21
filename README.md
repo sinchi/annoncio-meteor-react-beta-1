@@ -1,11 +1,11 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# Annoncio
+Annoncio beta 1
 
 <table>
   <tbody>
     <tr>
-      <th>Base Version</th>
-      <td>v4.3.0</td>
+      <th>Annoncio Version</th>
+      <td>v0.1</td>
     </tr>
     <tr>
       <th>Meteor Version</th>
