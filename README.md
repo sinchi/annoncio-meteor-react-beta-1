@@ -14,4 +14,4 @@ Annoncio beta 1
   </tbody>
 </table>
 
-[Read the Documentation](http://themeteorchef.com/base)
+[Read the Documentation](http://annoncio.ma/readme)
